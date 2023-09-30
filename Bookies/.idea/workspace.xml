@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4fa59ee4-4b48-49ac-ae58-c1d214c1cf73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/aa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/adventure.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/angels.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/back.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/brief.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/comedy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cosmos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/davinci.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/deception.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/digital.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/divine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/drakula.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/evolution.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/farm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/frank.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/gene.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/good.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/haunting.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/heart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/horror.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/inferno.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/leaves.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/love.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/majda.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/meriem.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/nouhaila.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/noune.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/origin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/poems.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/poetry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/prophet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/religion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/ring.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/rumi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/science.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/talk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/Book.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/Books.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/Review.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/Sidebar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/Sidebar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/book.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/books.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/categories/Adventure.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/categories/Comedy.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/categories/Horror.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/categories/Poetry.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/categories/Religion.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/categories/Science.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/categories/adventures.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/books/review.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLAASRI/S5/Anoun/generic_asynctask-master/AsyncTask/AsyncTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GLAASRI/S5/Anoun/generic_asynctask-master/AsyncTask/app/app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../S8-S9/spring/.idea/Code.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookies.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../message_de_motivation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/.jpb/jpb-settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/src/main/java/com/mybook/mybook/MybookApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/src/main/java/com/mybook/mybook/entities/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/src/main/java/com/mybook/mybook/repositories/BookRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/mybook/src/test/java/com/mybook/mybook/MybookApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/src/main/java/com/mybook/mybook/controllers/BooksControllers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/src/main/java/com/mybook/mybook/corsConf/Cors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/src/main/java/com/mybook/mybook/entities/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/src/main/java/com/mybook/mybook/repositories/BookRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mybook/src/main/java/com/mybook/mybook/services/BookServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sessions/addons/16.0/.idea/16.0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sessions/addons/16.0/gest_etudiant/.idea/gest_etudiant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sessions/addons/16.0/gest_traiteur/.idea/gest_etudiant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sessions/addons/16.0/transport_marchandise/.idea/transport_marchandise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../use_cases_bookies.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2VrbeZnv18NMxGPxeGH1xWHmLcC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dell/Desktop/Bookies&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\Desktop\Bookies\public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4fa59ee4-4b48-49ac-ae58-c1d214c1cf73" name="Changes" comment="" />
+      <created>1695597244319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695597244319</updated>
+      <workItem from="1695597247141" duration="196000" />
+      <workItem from="1695598364621" duration="43600000" />
+      <workItem from="1695926736679" duration="26056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

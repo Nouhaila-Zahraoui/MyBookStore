@@ -1,0 +1,17 @@
+/* Footer.css */
+
+.footer {
+    background-color: black;
+    color: transparent;
+    padding: 10px 0;
+    text-align: center;
+    height: 50px;
+    border-top-color: white;
+}
+
+.footer-text {
+    font-size: 16px;
+    margin-top: 10px;
+    padding: 0;
+    color : wheat;
+}

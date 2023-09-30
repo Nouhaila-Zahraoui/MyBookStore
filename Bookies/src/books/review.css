@@ -1,0 +1,67 @@
+/* review.css */
+
+/* Style the modal overlay */
+.ReactModal__Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Style the modal content */
+.ReactModal__Content {
+    position: absolute;
+    background-color: #fff;
+    top: 50%;
+    left: 50%;
+    transform: translate(80%, 0%);
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 400px;
+    width: 80%;
+    text-align: center;
+    height: 400px;
+}
+
+/* Style the modal title */
+.ReactModal__Content h2 {
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: #990011;
+}
+
+/* Style input fields */
+.ReactModal__Content input[type="text"],
+.ReactModal__Content textarea {
+    width: 90%;
+    padding: 10px;
+    margin-bottom: 25px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #1a2733;
+
+}
+
+/* Style buttons */
+.ReactModal__Content button {
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: #990011;
+    color: white;
+}
+
+
+/* Style the buttons on hover */
+.ReactModal__Content button:hover {
+    opacity: 0.8;
+}

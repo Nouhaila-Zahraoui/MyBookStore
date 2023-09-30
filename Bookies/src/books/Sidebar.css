@@ -1,0 +1,64 @@
+/* Sidebar.css */
+
+.sidebar {
+    width: 200px;
+    height: 100vh;
+    background-color: #990011;
+    color: white;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 0;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3); /* Add box-shadow here */
+}
+
+.logo {
+    font-size: 24px;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+.sidebar-link {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+/* Add styles for the links container */
+.sidebar-profile-section {
+    border-top: 1px solid white; /* Add a horizontal line */
+    padding-top: 20px; /* Add space at the top */
+    margin-top: 160px; /* Add space at the top */
+}
+.sidebar-link svg {
+    margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.sidebar-link:hover {
+    background-color: #1a2733;
+    cursor: pointer;
+}
+/* Add these CSS styles to your stylesheet */
+/* Add these CSS styles to your stylesheet */
+.logo {
+    font-family: 'Arial', sans-serif; /* Choose your desired font-family */
+    font-size: 20px; /* Adjust the font size as needed */
+    font-weight: bold; /* Make the text bold */
+    color: #fff; /* Set the text color to white */
+    text-transform: uppercase; /* Convert text to uppercase */
+    letter-spacing: 2px; /* Adjust letter spacing as needed */
+    text-align: center; /* Center-align the text */
+    background-color: #990011; /* Set the background color */
+    padding: 10px 20px; /* Add padding to the text */
+    border-radius: 50px; /* Apply border-radius for a rounded shape */
+    margin: 10px; /* Adjust margin as needed */
+}
+
+

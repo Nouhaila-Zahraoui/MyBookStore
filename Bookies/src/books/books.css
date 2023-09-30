@@ -1,0 +1,177 @@
+/* styles.scss */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+ul {
+    list-style: none;
+    padding-top: 20px;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+li {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 10px;
+    padding: 20px;
+    width: 250px;
+    text-align: left;
+    padding-bottom: 30px;
+
+}
+
+h2 {
+    font-size: 20px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #777;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 10px;
+}
+.like-button {
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    font-size: 20px;
+    color: #cc0000; /* Set the heart color */
+    cursor: pointer;
+    outline: none !important; /* Remove outline on focus */
+}
+
+/* Add this CSS to your stylesheet or in a <style> tag in your component */
+
+.category {
+    display: flex;
+    justify-content: space-between;
+}
+/* Add margin to the bottom of each card to create space between rows */
+.category-card {
+    margin-bottom: 20px; /* Adjust the value as needed */
+}
+
+/* Optional: To remove the margin from the last card in each row */
+.category-card:nth-child(3n) {
+    margin-bottom: 0;
+}
+
+.category ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 50px;
+}
+
+.category li {
+    margin-left:  5px !important; /* Add !important to override conflicting styles */
+    text-align: center;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.category li:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.category a {
+    text-decoration: none;
+    color: #333;
+}
+
+.category img {
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.category h3 {
+    margin: 20px 0;
+    font-size: 18px;
+}
+
+/* OurTeam.css */
+
+.our-team {
+    text-align: center;
+    margin: 20px;
+}
+
+.our-team h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333;
+}
+.team-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.team-card {
+    width: 150px; /* Adjust the width as needed */
+    margin: 10px; /* Add spacing between cards */
+    text-align: center;
+}
+
+.team-image-container {
+    width: 100px; /* Fixed width for image container */
+    height: 100px; /* Fixed height for image container */
+    border-radius: 50%; /* Make the container round */
+    overflow: hidden; /* Hide any overflow */
+}
+
+.team-image {
+    width: 100%; /* Ensure the image takes 100% width of its container */
+    height: auto; /* Automatically adjust the height to maintain aspect ratio */
+}
+
+.team-info {
+    margin-top: 10px;
+}
+
+.team-info h3 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #333;
+}
+
+.team-info p {
+    font-size: 16px;
+    margin: 10px 0;
+    color: #666;
+}
+
+/* Hover effect for cards */
+.team-card:hover {
+    transform: scale(1.05);
+}
+
+
+
